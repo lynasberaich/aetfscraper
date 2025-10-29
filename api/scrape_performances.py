@@ -43,10 +43,12 @@ def get_america_east_performances():
     html = fetch_html(AE2025OUTDOOR)
     Path("ae2025outdoor.html").write_text(html, encoding="utf-8")
     data = {}
+    umbc_data = {}
     soup = BeautifulSoup(html, "html.parser")
     events = ["event6", "event7", "event11"] #100m, 200m, 400m
     for event in events:
         event_list = []
+        umbc_event_list = []
         event_div = soup.find("div", class_="row gender_m standard_event_hnd_6")
         for row in event_div.find_all("div", class_="performance-list-row"):
             entry = {}
@@ -64,19 +66,26 @@ def get_america_east_performances():
             entry["time"] = time
             entry["meet_date"] = meet_date
             entry["wind"] = wind
-            
+
             event_list.append(entry)
+            if entry["team"]["text"] == "UMBC":
+                umbc_event_list.append(entry)
+
         data[event] = event_list
+        umbc_data[event] = umbc_event_list
     
-    return data
+    return data, umbc_data
 
 
 
 if __name__ == "__main__":
-    data = get_america_east_performances()
+    data, umbc_data = get_america_east_performances()
     directory = str(DATA_DIR) + "/performances.json"
+    umbc_directory = str(DATA_DIR) + "/umbcperformances.json"
     with open(directory, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
+    with open(umbc_directory, "w", encoding="utf-8") as f:
+        json.dump(umbc_data, f, indent=4, ensure_ascii=False)
     time.sleep(0.5)
     print("Scraping complete.")
 
