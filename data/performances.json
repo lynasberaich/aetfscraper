@@ -1,0 +1,1412 @@
+{
+    "event6": [
+        {
+            "place": {
+                "text": "1",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/1"
+            },
+            "athlete": {
+                "text": "Balde, Alpha",
+                "link": "https://www.tfrrs.org/athletes/8985427/UMBC/Alpha_Balde"
+            },
+            "team": {
+                "text": "UMBC",
+                "link": "https://www.tfrrs.org/teams/tf/MD_college_m_UMBC.html"
+            },
+            "year": "SO-2",
+            "time": "10.20",
+            "meet_date": "Apr 4, 2025",
+            "wind": "3.2"
+        },
+        {
+            "place": {
+                "text": "2",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/2"
+            },
+            "athlete": {
+                "text": "Ogunyeye, Tooni",
+                "link": "https://www.tfrrs.org/athletes/8986813/Albany/Tooni_Ogunyeye"
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "FR-1",
+            "time": "10.27",
+            "meet_date": "Apr 18, 2025",
+            "wind": "2.4"
+        },
+        {
+            "place": {
+                "text": "3",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/3"
+            },
+            "athlete": {
+                "text": "Staats Jr., Shavar",
+                "link": "https://www.tfrrs.org/athletes/8676556/Albany/Shavar_Staats_Jr."
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "SR-4",
+            "time": "10.31",
+            "meet_date": "May 17, 2025",
+            "wind": "0.4"
+        },
+        {
+            "place": {
+                "text": "4",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/4"
+            },
+            "athlete": {
+                "text": "Kennedy, Daniel",
+                "link": "https://www.tfrrs.org/athletes/8674548/UMass_Lowell/Daniel_Kennedy"
+            },
+            "team": {
+                "text": "UMass Lowell",
+                "link": "https://www.tfrrs.org/teams/tf/MA_college_m_UMass_Lowell.html"
+            },
+            "year": "FR-1",
+            "time": "10.45",
+            "meet_date": "May 10, 2025",
+            "wind": "1.6"
+        },
+        {
+            "place": {
+                "text": "5",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/5"
+            },
+            "athlete": {
+                "text": "Burke, Jaeden",
+                "link": "https://www.tfrrs.org/athletes/7783014/UMBC/Jaeden_Burke"
+            },
+            "team": {
+                "text": "UMBC",
+                "link": "https://www.tfrrs.org/teams/tf/MD_college_m_UMBC.html"
+            },
+            "year": "SR-4",
+            "time": "10.47",
+            "meet_date": "Apr 4, 2025",
+            "wind": "3.2"
+        },
+        {
+            "place": {
+                "text": "6",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/6"
+            },
+            "athlete": {
+                "text": "Dukes, Damon",
+                "link": "https://www.tfrrs.org/athletes/8985428/UMBC/Damon_Dukes"
+            },
+            "team": {
+                "text": "UMBC",
+                "link": "https://www.tfrrs.org/teams/tf/MD_college_m_UMBC.html"
+            },
+            "year": "SO-2",
+            "time": "10.58",
+            "meet_date": "Apr 4, 2025",
+            "wind": "3.2"
+        },
+        {
+            "place": {
+                "text": "7",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/7"
+            },
+            "athlete": {
+                "text": "Dacres, Isaac",
+                "link": "https://www.tfrrs.org/athletes/8676548/Albany/Isaac_Dacres"
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "SO-2",
+            "time": "10.60",
+            "meet_date": "Apr 18, 2025",
+            "wind": "4.3"
+        },
+        {
+            "place": {
+                "text": "8",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/8"
+            },
+            "athlete": {
+                "text": "Raji, Alim",
+                "link": "https://www.tfrrs.org/athletes/8985432/UMBC/Alim_Raji"
+            },
+            "team": {
+                "text": "UMBC",
+                "link": "https://www.tfrrs.org/teams/tf/MD_college_m_UMBC.html"
+            },
+            "year": "FR-1",
+            "time": "10.62",
+            "meet_date": "Apr 4, 2025",
+            "wind": "1.8"
+        },
+        {
+            "place": {
+                "text": "9",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/9"
+            },
+            "athlete": {
+                "text": "Omisore, Iyanuoluwapo",
+                "link": "https://www.tfrrs.org/athletes/8973540/UMass_Lowell/Iyanuoluwapo_Omisore"
+            },
+            "team": {
+                "text": "UMass Lowell",
+                "link": "https://www.tfrrs.org/teams/tf/MA_college_m_UMass_Lowell.html"
+            },
+            "year": "FR-1",
+            "time": "10.63",
+            "meet_date": "Apr 14, 2025",
+            "wind": "0.6"
+        },
+        {
+            "place": {
+                "text": "10",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/10"
+            },
+            "athlete": {
+                "text": "Alexandre, Caleb",
+                "link": "https://www.tfrrs.org/athletes/8982501/Binghamton/Caleb_Alexandre"
+            },
+            "team": {
+                "text": "Binghamton",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Binghamton.html"
+            },
+            "year": "FR-1",
+            "time": "10.66",
+            "meet_date": "Apr 12, 2025",
+            "wind": "2.1"
+        },
+        {
+            "place": {
+                "text": "11",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/11"
+            },
+            "athlete": {
+                "text": "Casab, Lucas",
+                "link": "https://www.tfrrs.org/athletes/7486882/Albany/Lucas_Casab"
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "SR-4",
+            "time": "10.68",
+            "meet_date": "Apr 18, 2025",
+            "wind": "2.4"
+        },
+        {
+            "place": {
+                "text": "12",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/12"
+            },
+            "athlete": {
+                "text": "Kaya, Aras",
+                "link": "https://www.tfrrs.org/athletes/7978723/UMass_Lowell/Aras_Kaya"
+            },
+            "team": {
+                "text": "UMass Lowell",
+                "link": "https://www.tfrrs.org/teams/tf/MA_college_m_UMass_Lowell.html"
+            },
+            "year": "SR-4",
+            "time": "10.77",
+            "meet_date": "May 17, 2025",
+            "wind": "-1.2"
+        },
+        {
+            "place": {
+                "text": "12",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/12"
+            },
+            "athlete": {
+                "text": "Martin, Cole",
+                "link": "https://www.tfrrs.org/athletes/8323421/Maine/Cole_Martin"
+            },
+            "team": {
+                "text": "Maine",
+                "link": "https://www.tfrrs.org/teams/tf/ME_college_m_Maine.html"
+            },
+            "year": "JR-3",
+            "time": "10.77",
+            "meet_date": "Apr 19, 2025",
+            "wind": "-0.5"
+        },
+        {
+            "place": {
+                "text": "12",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/12"
+            },
+            "athlete": {
+                "text": "Imasogie, Evan",
+                "link": "https://www.tfrrs.org/athletes/8671237/UMass_Lowell/Evan_Imasogie"
+            },
+            "team": {
+                "text": "UMass Lowell",
+                "link": "https://www.tfrrs.org/teams/tf/MA_college_m_UMass_Lowell.html"
+            },
+            "year": "SO-2",
+            "time": "10.77",
+            "meet_date": "May 10, 2025",
+            "wind": "1.0"
+        },
+        {
+            "place": {
+                "text": "15",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/15"
+            },
+            "athlete": {
+                "text": "Hazel, Matai",
+                "link": "https://www.tfrrs.org/athletes/8986809/Albany/Matai_Hazel"
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "SO-2",
+            "time": "10.78",
+            "meet_date": "Apr 25, 2025",
+            "wind": "0.5"
+        },
+        {
+            "place": {
+                "text": "16",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/16"
+            },
+            "athlete": {
+                "text": "Miller, Nathan",
+                "link": "https://www.tfrrs.org/athletes/8675757/Bryant/Nathan_Miller"
+            },
+            "team": {
+                "text": "Bryant",
+                "link": "https://www.tfrrs.org/teams/tf/RI_college_m_Bryant.html"
+            },
+            "year": "SO-2",
+            "time": "10.79",
+            "meet_date": "May 10, 2025",
+            "wind": "1.0"
+        },
+        {
+            "place": {
+                "text": "17",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/17"
+            },
+            "athlete": {
+                "text": "Davis-Whittaker, Jose",
+                "link": "https://www.tfrrs.org/athletes/8986804/Albany/Jose_Davis-Whittaker"
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "FR-1",
+            "time": "10.80",
+            "meet_date": "May 3, 2025",
+            "wind": "-1.1"
+        },
+        {
+            "place": {
+                "text": "18",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/18"
+            },
+            "athlete": {
+                "text": "Sutayasa, Putu",
+                "link": "https://www.tfrrs.org/athletes/8679217/Binghamton/Putu_Sutayasa"
+            },
+            "team": {
+                "text": "Binghamton",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Binghamton.html"
+            },
+            "year": "SO-2",
+            "time": "10.83",
+            "meet_date": "Apr 12, 2025",
+            "wind": "3.8"
+        },
+        {
+            "place": {
+                "text": "19",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/19"
+            },
+            "athlete": {
+                "text": "Nahim, Marcus",
+                "link": "https://www.tfrrs.org/athletes/8679214/Binghamton/Marcus_Nahim"
+            },
+            "team": {
+                "text": "Binghamton",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Binghamton.html"
+            },
+            "year": "FR-1",
+            "time": "10.85",
+            "meet_date": "Apr 18, 2025",
+            "wind": "0.1"
+        },
+        {
+            "place": {
+                "text": "19",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/19"
+            },
+            "athlete": {
+                "text": "Gyimah, Michael",
+                "link": "https://www.tfrrs.org/athletes/8973536/UMass_Lowell/Michael__Gyimah"
+            },
+            "team": {
+                "text": "UMass Lowell",
+                "link": "https://www.tfrrs.org/teams/tf/MA_college_m_UMass_Lowell.html"
+            },
+            "year": "FR-1",
+            "time": "10.85",
+            "meet_date": "Apr 25, 2025",
+            "wind": "1.1"
+        },
+        {
+            "place": {
+                "text": "21",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/21"
+            },
+            "athlete": {
+                "text": "Gleason, Andrew",
+                "link": "https://www.tfrrs.org/athletes/8675750/Bryant/Andrew_Gleason"
+            },
+            "team": {
+                "text": "Bryant",
+                "link": "https://www.tfrrs.org/teams/tf/RI_college_m_Bryant.html"
+            },
+            "year": "SO-2",
+            "time": "10.86",
+            "meet_date": "May 16, 2025",
+            "wind": "1.8"
+        },
+        {
+            "place": {
+                "text": "22",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/22"
+            },
+            "athlete": {
+                "text": "Carpentari, Pietro",
+                "link": "https://www.tfrrs.org/athletes/8975074/New_Jersey_Institute_Technolog/Pietro_Carpentari"
+            },
+            "team": {
+                "text": "NJIT",
+                "link": "https://www.tfrrs.org/teams/tf/NJ_college_m_New_Jersey_Institute_Technolog.html"
+            },
+            "year": "FR-1",
+            "time": "10.89",
+            "meet_date": "Mar 28, 2025",
+            "wind": "1.1"
+        },
+        {
+            "place": {
+                "text": "23",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/23"
+            },
+            "athlete": {
+                "text": "Johnson, Marcus",
+                "link": "https://www.tfrrs.org/athletes/7979267/Binghamton/Marcus_Johnson"
+            },
+            "team": {
+                "text": "Binghamton",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Binghamton.html"
+            },
+            "year": "SR-4",
+            "time": "10.90",
+            "meet_date": "Mar 28, 2025",
+            "wind": "1.1"
+        },
+        {
+            "place": {
+                "text": "24",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/24"
+            },
+            "athlete": {
+                "text": "Hargraves, Justin",
+                "link": "https://www.tfrrs.org/athletes/8982504/Binghamton/Justin_Hargraves"
+            },
+            "team": {
+                "text": "Binghamton",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Binghamton.html"
+            },
+            "year": "FR-1",
+            "time": "10.92",
+            "meet_date": "Apr 12, 2025",
+            "wind": "0.6"
+        },
+        {
+            "place": {
+                "text": "25",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/25"
+            },
+            "athlete": {
+                "text": "Brooks, Kevin",
+                "link": "https://www.tfrrs.org/athletes/8984252/Bryant/Kevin_Brooks"
+            },
+            "team": {
+                "text": "Bryant",
+                "link": "https://www.tfrrs.org/teams/tf/RI_college_m_Bryant.html"
+            },
+            "year": "FR-1",
+            "time": "10.93",
+            "meet_date": "Apr 3, 2025",
+            "wind": "0.9"
+        },
+        {
+            "place": {
+                "text": "25",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/25"
+            },
+            "athlete": {
+                "text": "Iheanacho, Fred-Morgan",
+                "link": "https://www.tfrrs.org/athletes/8550446/UMBC/Fred-Morgan__Iheanacho"
+            },
+            "team": {
+                "text": "UMBC",
+                "link": "https://www.tfrrs.org/teams/tf/MD_college_m_UMBC.html"
+            },
+            "year": "JR-3",
+            "time": "10.93",
+            "meet_date": "Apr 4, 2025",
+            "wind": "0.7"
+        }
+    ],
+    "event7": [
+        {
+            "place": {
+                "text": "1",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/1"
+            },
+            "athlete": {
+                "text": "Balde, Alpha",
+                "link": "https://www.tfrrs.org/athletes/8985427/UMBC/Alpha_Balde"
+            },
+            "team": {
+                "text": "UMBC",
+                "link": "https://www.tfrrs.org/teams/tf/MD_college_m_UMBC.html"
+            },
+            "year": "SO-2",
+            "time": "10.20",
+            "meet_date": "Apr 4, 2025",
+            "wind": "3.2"
+        },
+        {
+            "place": {
+                "text": "2",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/2"
+            },
+            "athlete": {
+                "text": "Ogunyeye, Tooni",
+                "link": "https://www.tfrrs.org/athletes/8986813/Albany/Tooni_Ogunyeye"
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "FR-1",
+            "time": "10.27",
+            "meet_date": "Apr 18, 2025",
+            "wind": "2.4"
+        },
+        {
+            "place": {
+                "text": "3",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/3"
+            },
+            "athlete": {
+                "text": "Staats Jr., Shavar",
+                "link": "https://www.tfrrs.org/athletes/8676556/Albany/Shavar_Staats_Jr."
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "SR-4",
+            "time": "10.31",
+            "meet_date": "May 17, 2025",
+            "wind": "0.4"
+        },
+        {
+            "place": {
+                "text": "4",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/4"
+            },
+            "athlete": {
+                "text": "Kennedy, Daniel",
+                "link": "https://www.tfrrs.org/athletes/8674548/UMass_Lowell/Daniel_Kennedy"
+            },
+            "team": {
+                "text": "UMass Lowell",
+                "link": "https://www.tfrrs.org/teams/tf/MA_college_m_UMass_Lowell.html"
+            },
+            "year": "FR-1",
+            "time": "10.45",
+            "meet_date": "May 10, 2025",
+            "wind": "1.6"
+        },
+        {
+            "place": {
+                "text": "5",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/5"
+            },
+            "athlete": {
+                "text": "Burke, Jaeden",
+                "link": "https://www.tfrrs.org/athletes/7783014/UMBC/Jaeden_Burke"
+            },
+            "team": {
+                "text": "UMBC",
+                "link": "https://www.tfrrs.org/teams/tf/MD_college_m_UMBC.html"
+            },
+            "year": "SR-4",
+            "time": "10.47",
+            "meet_date": "Apr 4, 2025",
+            "wind": "3.2"
+        },
+        {
+            "place": {
+                "text": "6",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/6"
+            },
+            "athlete": {
+                "text": "Dukes, Damon",
+                "link": "https://www.tfrrs.org/athletes/8985428/UMBC/Damon_Dukes"
+            },
+            "team": {
+                "text": "UMBC",
+                "link": "https://www.tfrrs.org/teams/tf/MD_college_m_UMBC.html"
+            },
+            "year": "SO-2",
+            "time": "10.58",
+            "meet_date": "Apr 4, 2025",
+            "wind": "3.2"
+        },
+        {
+            "place": {
+                "text": "7",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/7"
+            },
+            "athlete": {
+                "text": "Dacres, Isaac",
+                "link": "https://www.tfrrs.org/athletes/8676548/Albany/Isaac_Dacres"
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "SO-2",
+            "time": "10.60",
+            "meet_date": "Apr 18, 2025",
+            "wind": "4.3"
+        },
+        {
+            "place": {
+                "text": "8",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/8"
+            },
+            "athlete": {
+                "text": "Raji, Alim",
+                "link": "https://www.tfrrs.org/athletes/8985432/UMBC/Alim_Raji"
+            },
+            "team": {
+                "text": "UMBC",
+                "link": "https://www.tfrrs.org/teams/tf/MD_college_m_UMBC.html"
+            },
+            "year": "FR-1",
+            "time": "10.62",
+            "meet_date": "Apr 4, 2025",
+            "wind": "1.8"
+        },
+        {
+            "place": {
+                "text": "9",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/9"
+            },
+            "athlete": {
+                "text": "Omisore, Iyanuoluwapo",
+                "link": "https://www.tfrrs.org/athletes/8973540/UMass_Lowell/Iyanuoluwapo_Omisore"
+            },
+            "team": {
+                "text": "UMass Lowell",
+                "link": "https://www.tfrrs.org/teams/tf/MA_college_m_UMass_Lowell.html"
+            },
+            "year": "FR-1",
+            "time": "10.63",
+            "meet_date": "Apr 14, 2025",
+            "wind": "0.6"
+        },
+        {
+            "place": {
+                "text": "10",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/10"
+            },
+            "athlete": {
+                "text": "Alexandre, Caleb",
+                "link": "https://www.tfrrs.org/athletes/8982501/Binghamton/Caleb_Alexandre"
+            },
+            "team": {
+                "text": "Binghamton",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Binghamton.html"
+            },
+            "year": "FR-1",
+            "time": "10.66",
+            "meet_date": "Apr 12, 2025",
+            "wind": "2.1"
+        },
+        {
+            "place": {
+                "text": "11",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/11"
+            },
+            "athlete": {
+                "text": "Casab, Lucas",
+                "link": "https://www.tfrrs.org/athletes/7486882/Albany/Lucas_Casab"
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "SR-4",
+            "time": "10.68",
+            "meet_date": "Apr 18, 2025",
+            "wind": "2.4"
+        },
+        {
+            "place": {
+                "text": "12",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/12"
+            },
+            "athlete": {
+                "text": "Kaya, Aras",
+                "link": "https://www.tfrrs.org/athletes/7978723/UMass_Lowell/Aras_Kaya"
+            },
+            "team": {
+                "text": "UMass Lowell",
+                "link": "https://www.tfrrs.org/teams/tf/MA_college_m_UMass_Lowell.html"
+            },
+            "year": "SR-4",
+            "time": "10.77",
+            "meet_date": "May 17, 2025",
+            "wind": "-1.2"
+        },
+        {
+            "place": {
+                "text": "12",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/12"
+            },
+            "athlete": {
+                "text": "Martin, Cole",
+                "link": "https://www.tfrrs.org/athletes/8323421/Maine/Cole_Martin"
+            },
+            "team": {
+                "text": "Maine",
+                "link": "https://www.tfrrs.org/teams/tf/ME_college_m_Maine.html"
+            },
+            "year": "JR-3",
+            "time": "10.77",
+            "meet_date": "Apr 19, 2025",
+            "wind": "-0.5"
+        },
+        {
+            "place": {
+                "text": "12",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/12"
+            },
+            "athlete": {
+                "text": "Imasogie, Evan",
+                "link": "https://www.tfrrs.org/athletes/8671237/UMass_Lowell/Evan_Imasogie"
+            },
+            "team": {
+                "text": "UMass Lowell",
+                "link": "https://www.tfrrs.org/teams/tf/MA_college_m_UMass_Lowell.html"
+            },
+            "year": "SO-2",
+            "time": "10.77",
+            "meet_date": "May 10, 2025",
+            "wind": "1.0"
+        },
+        {
+            "place": {
+                "text": "15",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/15"
+            },
+            "athlete": {
+                "text": "Hazel, Matai",
+                "link": "https://www.tfrrs.org/athletes/8986809/Albany/Matai_Hazel"
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "SO-2",
+            "time": "10.78",
+            "meet_date": "Apr 25, 2025",
+            "wind": "0.5"
+        },
+        {
+            "place": {
+                "text": "16",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/16"
+            },
+            "athlete": {
+                "text": "Miller, Nathan",
+                "link": "https://www.tfrrs.org/athletes/8675757/Bryant/Nathan_Miller"
+            },
+            "team": {
+                "text": "Bryant",
+                "link": "https://www.tfrrs.org/teams/tf/RI_college_m_Bryant.html"
+            },
+            "year": "SO-2",
+            "time": "10.79",
+            "meet_date": "May 10, 2025",
+            "wind": "1.0"
+        },
+        {
+            "place": {
+                "text": "17",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/17"
+            },
+            "athlete": {
+                "text": "Davis-Whittaker, Jose",
+                "link": "https://www.tfrrs.org/athletes/8986804/Albany/Jose_Davis-Whittaker"
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "FR-1",
+            "time": "10.80",
+            "meet_date": "May 3, 2025",
+            "wind": "-1.1"
+        },
+        {
+            "place": {
+                "text": "18",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/18"
+            },
+            "athlete": {
+                "text": "Sutayasa, Putu",
+                "link": "https://www.tfrrs.org/athletes/8679217/Binghamton/Putu_Sutayasa"
+            },
+            "team": {
+                "text": "Binghamton",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Binghamton.html"
+            },
+            "year": "SO-2",
+            "time": "10.83",
+            "meet_date": "Apr 12, 2025",
+            "wind": "3.8"
+        },
+        {
+            "place": {
+                "text": "19",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/19"
+            },
+            "athlete": {
+                "text": "Nahim, Marcus",
+                "link": "https://www.tfrrs.org/athletes/8679214/Binghamton/Marcus_Nahim"
+            },
+            "team": {
+                "text": "Binghamton",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Binghamton.html"
+            },
+            "year": "FR-1",
+            "time": "10.85",
+            "meet_date": "Apr 18, 2025",
+            "wind": "0.1"
+        },
+        {
+            "place": {
+                "text": "19",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/19"
+            },
+            "athlete": {
+                "text": "Gyimah, Michael",
+                "link": "https://www.tfrrs.org/athletes/8973536/UMass_Lowell/Michael__Gyimah"
+            },
+            "team": {
+                "text": "UMass Lowell",
+                "link": "https://www.tfrrs.org/teams/tf/MA_college_m_UMass_Lowell.html"
+            },
+            "year": "FR-1",
+            "time": "10.85",
+            "meet_date": "Apr 25, 2025",
+            "wind": "1.1"
+        },
+        {
+            "place": {
+                "text": "21",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/21"
+            },
+            "athlete": {
+                "text": "Gleason, Andrew",
+                "link": "https://www.tfrrs.org/athletes/8675750/Bryant/Andrew_Gleason"
+            },
+            "team": {
+                "text": "Bryant",
+                "link": "https://www.tfrrs.org/teams/tf/RI_college_m_Bryant.html"
+            },
+            "year": "SO-2",
+            "time": "10.86",
+            "meet_date": "May 16, 2025",
+            "wind": "1.8"
+        },
+        {
+            "place": {
+                "text": "22",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/22"
+            },
+            "athlete": {
+                "text": "Carpentari, Pietro",
+                "link": "https://www.tfrrs.org/athletes/8975074/New_Jersey_Institute_Technolog/Pietro_Carpentari"
+            },
+            "team": {
+                "text": "NJIT",
+                "link": "https://www.tfrrs.org/teams/tf/NJ_college_m_New_Jersey_Institute_Technolog.html"
+            },
+            "year": "FR-1",
+            "time": "10.89",
+            "meet_date": "Mar 28, 2025",
+            "wind": "1.1"
+        },
+        {
+            "place": {
+                "text": "23",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/23"
+            },
+            "athlete": {
+                "text": "Johnson, Marcus",
+                "link": "https://www.tfrrs.org/athletes/7979267/Binghamton/Marcus_Johnson"
+            },
+            "team": {
+                "text": "Binghamton",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Binghamton.html"
+            },
+            "year": "SR-4",
+            "time": "10.90",
+            "meet_date": "Mar 28, 2025",
+            "wind": "1.1"
+        },
+        {
+            "place": {
+                "text": "24",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/24"
+            },
+            "athlete": {
+                "text": "Hargraves, Justin",
+                "link": "https://www.tfrrs.org/athletes/8982504/Binghamton/Justin_Hargraves"
+            },
+            "team": {
+                "text": "Binghamton",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Binghamton.html"
+            },
+            "year": "FR-1",
+            "time": "10.92",
+            "meet_date": "Apr 12, 2025",
+            "wind": "0.6"
+        },
+        {
+            "place": {
+                "text": "25",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/25"
+            },
+            "athlete": {
+                "text": "Brooks, Kevin",
+                "link": "https://www.tfrrs.org/athletes/8984252/Bryant/Kevin_Brooks"
+            },
+            "team": {
+                "text": "Bryant",
+                "link": "https://www.tfrrs.org/teams/tf/RI_college_m_Bryant.html"
+            },
+            "year": "FR-1",
+            "time": "10.93",
+            "meet_date": "Apr 3, 2025",
+            "wind": "0.9"
+        },
+        {
+            "place": {
+                "text": "25",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/25"
+            },
+            "athlete": {
+                "text": "Iheanacho, Fred-Morgan",
+                "link": "https://www.tfrrs.org/athletes/8550446/UMBC/Fred-Morgan__Iheanacho"
+            },
+            "team": {
+                "text": "UMBC",
+                "link": "https://www.tfrrs.org/teams/tf/MD_college_m_UMBC.html"
+            },
+            "year": "JR-3",
+            "time": "10.93",
+            "meet_date": "Apr 4, 2025",
+            "wind": "0.7"
+        }
+    ],
+    "event11": [
+        {
+            "place": {
+                "text": "1",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/1"
+            },
+            "athlete": {
+                "text": "Balde, Alpha",
+                "link": "https://www.tfrrs.org/athletes/8985427/UMBC/Alpha_Balde"
+            },
+            "team": {
+                "text": "UMBC",
+                "link": "https://www.tfrrs.org/teams/tf/MD_college_m_UMBC.html"
+            },
+            "year": "SO-2",
+            "time": "10.20",
+            "meet_date": "Apr 4, 2025",
+            "wind": "3.2"
+        },
+        {
+            "place": {
+                "text": "2",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/2"
+            },
+            "athlete": {
+                "text": "Ogunyeye, Tooni",
+                "link": "https://www.tfrrs.org/athletes/8986813/Albany/Tooni_Ogunyeye"
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "FR-1",
+            "time": "10.27",
+            "meet_date": "Apr 18, 2025",
+            "wind": "2.4"
+        },
+        {
+            "place": {
+                "text": "3",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/3"
+            },
+            "athlete": {
+                "text": "Staats Jr., Shavar",
+                "link": "https://www.tfrrs.org/athletes/8676556/Albany/Shavar_Staats_Jr."
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "SR-4",
+            "time": "10.31",
+            "meet_date": "May 17, 2025",
+            "wind": "0.4"
+        },
+        {
+            "place": {
+                "text": "4",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/4"
+            },
+            "athlete": {
+                "text": "Kennedy, Daniel",
+                "link": "https://www.tfrrs.org/athletes/8674548/UMass_Lowell/Daniel_Kennedy"
+            },
+            "team": {
+                "text": "UMass Lowell",
+                "link": "https://www.tfrrs.org/teams/tf/MA_college_m_UMass_Lowell.html"
+            },
+            "year": "FR-1",
+            "time": "10.45",
+            "meet_date": "May 10, 2025",
+            "wind": "1.6"
+        },
+        {
+            "place": {
+                "text": "5",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/5"
+            },
+            "athlete": {
+                "text": "Burke, Jaeden",
+                "link": "https://www.tfrrs.org/athletes/7783014/UMBC/Jaeden_Burke"
+            },
+            "team": {
+                "text": "UMBC",
+                "link": "https://www.tfrrs.org/teams/tf/MD_college_m_UMBC.html"
+            },
+            "year": "SR-4",
+            "time": "10.47",
+            "meet_date": "Apr 4, 2025",
+            "wind": "3.2"
+        },
+        {
+            "place": {
+                "text": "6",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/6"
+            },
+            "athlete": {
+                "text": "Dukes, Damon",
+                "link": "https://www.tfrrs.org/athletes/8985428/UMBC/Damon_Dukes"
+            },
+            "team": {
+                "text": "UMBC",
+                "link": "https://www.tfrrs.org/teams/tf/MD_college_m_UMBC.html"
+            },
+            "year": "SO-2",
+            "time": "10.58",
+            "meet_date": "Apr 4, 2025",
+            "wind": "3.2"
+        },
+        {
+            "place": {
+                "text": "7",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/7"
+            },
+            "athlete": {
+                "text": "Dacres, Isaac",
+                "link": "https://www.tfrrs.org/athletes/8676548/Albany/Isaac_Dacres"
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "SO-2",
+            "time": "10.60",
+            "meet_date": "Apr 18, 2025",
+            "wind": "4.3"
+        },
+        {
+            "place": {
+                "text": "8",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/8"
+            },
+            "athlete": {
+                "text": "Raji, Alim",
+                "link": "https://www.tfrrs.org/athletes/8985432/UMBC/Alim_Raji"
+            },
+            "team": {
+                "text": "UMBC",
+                "link": "https://www.tfrrs.org/teams/tf/MD_college_m_UMBC.html"
+            },
+            "year": "FR-1",
+            "time": "10.62",
+            "meet_date": "Apr 4, 2025",
+            "wind": "1.8"
+        },
+        {
+            "place": {
+                "text": "9",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/9"
+            },
+            "athlete": {
+                "text": "Omisore, Iyanuoluwapo",
+                "link": "https://www.tfrrs.org/athletes/8973540/UMass_Lowell/Iyanuoluwapo_Omisore"
+            },
+            "team": {
+                "text": "UMass Lowell",
+                "link": "https://www.tfrrs.org/teams/tf/MA_college_m_UMass_Lowell.html"
+            },
+            "year": "FR-1",
+            "time": "10.63",
+            "meet_date": "Apr 14, 2025",
+            "wind": "0.6"
+        },
+        {
+            "place": {
+                "text": "10",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/10"
+            },
+            "athlete": {
+                "text": "Alexandre, Caleb",
+                "link": "https://www.tfrrs.org/athletes/8982501/Binghamton/Caleb_Alexandre"
+            },
+            "team": {
+                "text": "Binghamton",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Binghamton.html"
+            },
+            "year": "FR-1",
+            "time": "10.66",
+            "meet_date": "Apr 12, 2025",
+            "wind": "2.1"
+        },
+        {
+            "place": {
+                "text": "11",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/11"
+            },
+            "athlete": {
+                "text": "Casab, Lucas",
+                "link": "https://www.tfrrs.org/athletes/7486882/Albany/Lucas_Casab"
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "SR-4",
+            "time": "10.68",
+            "meet_date": "Apr 18, 2025",
+            "wind": "2.4"
+        },
+        {
+            "place": {
+                "text": "12",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/12"
+            },
+            "athlete": {
+                "text": "Kaya, Aras",
+                "link": "https://www.tfrrs.org/athletes/7978723/UMass_Lowell/Aras_Kaya"
+            },
+            "team": {
+                "text": "UMass Lowell",
+                "link": "https://www.tfrrs.org/teams/tf/MA_college_m_UMass_Lowell.html"
+            },
+            "year": "SR-4",
+            "time": "10.77",
+            "meet_date": "May 17, 2025",
+            "wind": "-1.2"
+        },
+        {
+            "place": {
+                "text": "12",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/12"
+            },
+            "athlete": {
+                "text": "Martin, Cole",
+                "link": "https://www.tfrrs.org/athletes/8323421/Maine/Cole_Martin"
+            },
+            "team": {
+                "text": "Maine",
+                "link": "https://www.tfrrs.org/teams/tf/ME_college_m_Maine.html"
+            },
+            "year": "JR-3",
+            "time": "10.77",
+            "meet_date": "Apr 19, 2025",
+            "wind": "-0.5"
+        },
+        {
+            "place": {
+                "text": "12",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/12"
+            },
+            "athlete": {
+                "text": "Imasogie, Evan",
+                "link": "https://www.tfrrs.org/athletes/8671237/UMass_Lowell/Evan_Imasogie"
+            },
+            "team": {
+                "text": "UMass Lowell",
+                "link": "https://www.tfrrs.org/teams/tf/MA_college_m_UMass_Lowell.html"
+            },
+            "year": "SO-2",
+            "time": "10.77",
+            "meet_date": "May 10, 2025",
+            "wind": "1.0"
+        },
+        {
+            "place": {
+                "text": "15",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/15"
+            },
+            "athlete": {
+                "text": "Hazel, Matai",
+                "link": "https://www.tfrrs.org/athletes/8986809/Albany/Matai_Hazel"
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "SO-2",
+            "time": "10.78",
+            "meet_date": "Apr 25, 2025",
+            "wind": "0.5"
+        },
+        {
+            "place": {
+                "text": "16",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/16"
+            },
+            "athlete": {
+                "text": "Miller, Nathan",
+                "link": "https://www.tfrrs.org/athletes/8675757/Bryant/Nathan_Miller"
+            },
+            "team": {
+                "text": "Bryant",
+                "link": "https://www.tfrrs.org/teams/tf/RI_college_m_Bryant.html"
+            },
+            "year": "SO-2",
+            "time": "10.79",
+            "meet_date": "May 10, 2025",
+            "wind": "1.0"
+        },
+        {
+            "place": {
+                "text": "17",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/17"
+            },
+            "athlete": {
+                "text": "Davis-Whittaker, Jose",
+                "link": "https://www.tfrrs.org/athletes/8986804/Albany/Jose_Davis-Whittaker"
+            },
+            "team": {
+                "text": "UAlbany",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Albany.html"
+            },
+            "year": "FR-1",
+            "time": "10.80",
+            "meet_date": "May 3, 2025",
+            "wind": "-1.1"
+        },
+        {
+            "place": {
+                "text": "18",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/18"
+            },
+            "athlete": {
+                "text": "Sutayasa, Putu",
+                "link": "https://www.tfrrs.org/athletes/8679217/Binghamton/Putu_Sutayasa"
+            },
+            "team": {
+                "text": "Binghamton",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Binghamton.html"
+            },
+            "year": "SO-2",
+            "time": "10.83",
+            "meet_date": "Apr 12, 2025",
+            "wind": "3.8"
+        },
+        {
+            "place": {
+                "text": "19",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/19"
+            },
+            "athlete": {
+                "text": "Nahim, Marcus",
+                "link": "https://www.tfrrs.org/athletes/8679214/Binghamton/Marcus_Nahim"
+            },
+            "team": {
+                "text": "Binghamton",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Binghamton.html"
+            },
+            "year": "FR-1",
+            "time": "10.85",
+            "meet_date": "Apr 18, 2025",
+            "wind": "0.1"
+        },
+        {
+            "place": {
+                "text": "19",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/19"
+            },
+            "athlete": {
+                "text": "Gyimah, Michael",
+                "link": "https://www.tfrrs.org/athletes/8973536/UMass_Lowell/Michael__Gyimah"
+            },
+            "team": {
+                "text": "UMass Lowell",
+                "link": "https://www.tfrrs.org/teams/tf/MA_college_m_UMass_Lowell.html"
+            },
+            "year": "FR-1",
+            "time": "10.85",
+            "meet_date": "Apr 25, 2025",
+            "wind": "1.1"
+        },
+        {
+            "place": {
+                "text": "21",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/21"
+            },
+            "athlete": {
+                "text": "Gleason, Andrew",
+                "link": "https://www.tfrrs.org/athletes/8675750/Bryant/Andrew_Gleason"
+            },
+            "team": {
+                "text": "Bryant",
+                "link": "https://www.tfrrs.org/teams/tf/RI_college_m_Bryant.html"
+            },
+            "year": "SO-2",
+            "time": "10.86",
+            "meet_date": "May 16, 2025",
+            "wind": "1.8"
+        },
+        {
+            "place": {
+                "text": "22",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/22"
+            },
+            "athlete": {
+                "text": "Carpentari, Pietro",
+                "link": "https://www.tfrrs.org/athletes/8975074/New_Jersey_Institute_Technolog/Pietro_Carpentari"
+            },
+            "team": {
+                "text": "NJIT",
+                "link": "https://www.tfrrs.org/teams/tf/NJ_college_m_New_Jersey_Institute_Technolog.html"
+            },
+            "year": "FR-1",
+            "time": "10.89",
+            "meet_date": "Mar 28, 2025",
+            "wind": "1.1"
+        },
+        {
+            "place": {
+                "text": "23",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/23"
+            },
+            "athlete": {
+                "text": "Johnson, Marcus",
+                "link": "https://www.tfrrs.org/athletes/7979267/Binghamton/Marcus_Johnson"
+            },
+            "team": {
+                "text": "Binghamton",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Binghamton.html"
+            },
+            "year": "SR-4",
+            "time": "10.90",
+            "meet_date": "Mar 28, 2025",
+            "wind": "1.1"
+        },
+        {
+            "place": {
+                "text": "24",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/24"
+            },
+            "athlete": {
+                "text": "Hargraves, Justin",
+                "link": "https://www.tfrrs.org/athletes/8982504/Binghamton/Justin_Hargraves"
+            },
+            "team": {
+                "text": "Binghamton",
+                "link": "https://www.tfrrs.org/teams/tf/NY_college_m_Binghamton.html"
+            },
+            "year": "FR-1",
+            "time": "10.92",
+            "meet_date": "Apr 12, 2025",
+            "wind": "0.6"
+        },
+        {
+            "place": {
+                "text": "25",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/25"
+            },
+            "athlete": {
+                "text": "Brooks, Kevin",
+                "link": "https://www.tfrrs.org/athletes/8984252/Bryant/Kevin_Brooks"
+            },
+            "team": {
+                "text": "Bryant",
+                "link": "https://www.tfrrs.org/teams/tf/RI_college_m_Bryant.html"
+            },
+            "year": "FR-1",
+            "time": "10.93",
+            "meet_date": "Apr 3, 2025",
+            "wind": "0.9"
+        },
+        {
+            "place": {
+                "text": "25",
+                "link": "https://www.tfrrs.org/tie_break/5104/35606/25"
+            },
+            "athlete": {
+                "text": "Iheanacho, Fred-Morgan",
+                "link": "https://www.tfrrs.org/athletes/8550446/UMBC/Fred-Morgan__Iheanacho"
+            },
+            "team": {
+                "text": "UMBC",
+                "link": "https://www.tfrrs.org/teams/tf/MD_college_m_UMBC.html"
+            },
+            "year": "JR-3",
+            "time": "10.93",
+            "meet_date": "Apr 4, 2025",
+            "wind": "0.7"
+        }
+    ]
+}
