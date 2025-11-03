@@ -1,0 +1,332 @@
+{
+    "100m": [
+        {
+            "place": 1,
+            "athlete": {
+                "text": "Ashby, Kierstin",
+                "link": "https://www.tfrrs.org/athletes/8975089/New_Jersey_Institute_Technolog/Kierstin_Ashby"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "12.87",
+            "meet_date": "Mar 28, 2025",
+            "wind": "1.1"
+        },
+        {
+            "place": 2,
+            "athlete": {
+                "text": "Bugasch, Abigail",
+                "link": "https://www.tfrrs.org/athletes/8693222/New_Jersey_Institute_Technolog/Abigail_Bugasch"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "12.97",
+            "meet_date": "Apr 19, 2025",
+            "wind": "2.0"
+        },
+        {
+            "place": 3,
+            "athlete": {
+                "text": "Olufowobi, Oluwanifemi",
+                "link": "https://www.tfrrs.org/athletes/8975094/New_Jersey_Institute_Technolog/Oluwanifemi_Olufowobi"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "13.22",
+            "meet_date": "Apr 12, 2025",
+            "wind": "2.3"
+        }
+    ],
+    "200m": [
+        {
+            "place": 1,
+            "athlete": {
+                "text": "Ashby, Kierstin",
+                "link": "https://www.tfrrs.org/athletes/8975089/New_Jersey_Institute_Technolog/Kierstin_Ashby"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "25.86",
+            "meet_date": "Apr 4, 2025",
+            "wind": "+0.0"
+        },
+        {
+            "place": 2,
+            "athlete": {
+                "text": "Matthews, Nelagh",
+                "link": "https://www.tfrrs.org/athletes/8686169/New_Jersey_Institute_Technolog/Nelagh_Matthews"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "26.31",
+            "meet_date": "Apr 12, 2025",
+            "wind": "2.6"
+        },
+        {
+            "place": 3,
+            "athlete": {
+                "text": "Bugasch, Abigail",
+                "link": "https://www.tfrrs.org/athletes/8693222/New_Jersey_Institute_Technolog/Abigail_Bugasch"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "26.85",
+            "meet_date": "Apr 12, 2025",
+            "wind": "2.9"
+        },
+        {
+            "place": 4,
+            "athlete": {
+                "text": "Julvez, Lucia",
+                "link": "https://www.tfrrs.org/athletes/8336993/New_Jersey_Institute_Technolog/Lucia_Julvez"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "27.34",
+            "meet_date": "Mar 28, 2025",
+            "wind": "2.1"
+        },
+        {
+            "place": 5,
+            "athlete": {
+                "text": "Olufowobi, Oluwanifemi",
+                "link": "https://www.tfrrs.org/athletes/8975094/New_Jersey_Institute_Technolog/Oluwanifemi_Olufowobi"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "27.70",
+            "meet_date": "Apr 19, 2025",
+            "wind": "3.5"
+        }
+    ],
+    "400m": [
+        {
+            "place": 1,
+            "athlete": {
+                "text": "Ashby, Kierstin",
+                "link": "https://www.tfrrs.org/athletes/8975089/New_Jersey_Institute_Technolog/Kierstin_Ashby"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "56.92",
+            "meet_date": "Apr 4, 2025",
+            "wind": null
+        },
+        {
+            "place": 2,
+            "athlete": {
+                "text": "Julvez, Lucia",
+                "link": "https://www.tfrrs.org/athletes/8336993/New_Jersey_Institute_Technolog/Lucia_Julvez"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "58.92",
+            "meet_date": "Apr 4, 2025",
+            "wind": null
+        },
+        {
+            "place": 3,
+            "athlete": {
+                "text": "Lucido, Hayley",
+                "link": "https://www.tfrrs.org/athletes/8686167/New_Jersey_Institute_Technolog/Hayley_Lucido"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "59.42",
+            "meet_date": "Apr 12, 2025",
+            "wind": null
+        },
+        {
+            "place": 4,
+            "athlete": {
+                "text": "Bugasch, Abigail",
+                "link": "https://www.tfrrs.org/athletes/8693222/New_Jersey_Institute_Technolog/Abigail_Bugasch"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "1:02.50",
+            "meet_date": "Apr 4, 2025",
+            "wind": null
+        }
+    ],
+    "800m": [
+        {
+            "place": 1,
+            "athlete": {
+                "text": "Lucido, Hayley",
+                "link": "https://www.tfrrs.org/athletes/8686167/New_Jersey_Institute_Technolog/Hayley_Lucido"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "2:12.67",
+            "meet_date": "May 3, 2025",
+            "wind": null
+        },
+        {
+            "place": 2,
+            "athlete": {
+                "text": "Keith, Jenna",
+                "link": "https://www.tfrrs.org/athletes/8235450/New_Jersey_Institute_Technolog/Jenna_Keith"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "2:16.51",
+            "meet_date": "May 16, 2025",
+            "wind": null
+        },
+        {
+            "place": 3,
+            "athlete": {
+                "text": "Canonaco, Julia",
+                "link": "https://www.tfrrs.org/athletes/8585664/New_Jersey_Institute_Technolog/Julia_Canonaco"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "2:17.93",
+            "meet_date": "Mar 28, 2025",
+            "wind": null
+        },
+        {
+            "place": 4,
+            "athlete": {
+                "text": "Zhecheva, Nadia",
+                "link": "https://www.tfrrs.org/athletes/7949879/New_Jersey_Institute_Technolog/Nadia_Zhecheva"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "2:18.13",
+            "meet_date": "Apr 25, 2025",
+            "wind": null
+        },
+        {
+            "place": 5,
+            "athlete": {
+                "text": "Jenkins, Sanai",
+                "link": "https://www.tfrrs.org/athletes/8296254/New_Jersey_Institute_Technolog/Sanai_Jenkins"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "2:26.23",
+            "meet_date": "Mar 28, 2025",
+            "wind": null
+        },
+        {
+            "place": 6,
+            "athlete": {
+                "text": "Shaw, Delahni",
+                "link": "https://www.tfrrs.org/athletes/8927249/New_Jersey_Institute_Technolog/Delahni_Shaw"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "2:32.74",
+            "meet_date": "Apr 25, 2025",
+            "wind": null
+        }
+    ],
+    "1500m": [
+        {
+            "place": 1,
+            "athlete": {
+                "text": "Canonaco, Julia",
+                "link": "https://www.tfrrs.org/athletes/8585664/New_Jersey_Institute_Technolog/Julia_Canonaco"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "4:41.10",
+            "meet_date": "Apr 18, 2025",
+            "wind": null
+        },
+        {
+            "place": 2,
+            "athlete": {
+                "text": "Keith, Jenna",
+                "link": "https://www.tfrrs.org/athletes/8235450/New_Jersey_Institute_Technolog/Jenna_Keith"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "5:01.49",
+            "meet_date": "Mar 28, 2025",
+            "wind": null
+        }
+    ],
+    "5000m": [
+        {
+            "place": 1,
+            "athlete": {
+                "text": "Harding, Kimmie",
+                "link": "https://www.tfrrs.org/athletes/8235449/New_Jersey_Institute_Technolog/Kimmie_Harding"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "18:14.85",
+            "meet_date": "Apr 4, 2025",
+            "wind": null
+        }
+    ],
+    "10000m": [
+        {
+            "place": 1,
+            "athlete": {
+                "text": "Harding, Kimmie",
+                "link": "https://www.tfrrs.org/athletes/8235449/New_Jersey_Institute_Technolog/Kimmie_Harding"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "37:06.15",
+            "meet_date": "Apr 12, 2025",
+            "wind": null
+        }
+    ],
+    "100mh": [
+        {
+            "place": 1,
+            "athlete": {
+                "text": "Olufowobi, Oluwanifemi",
+                "link": "https://www.tfrrs.org/athletes/8975094/New_Jersey_Institute_Technolog/Oluwanifemi_Olufowobi"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "14.78",
+            "meet_date": "May 3, 2025",
+            "wind": "1.3"
+        },
+        {
+            "place": 2,
+            "athlete": {
+                "text": "Matthews, Nelagh",
+                "link": "https://www.tfrrs.org/athletes/8686169/New_Jersey_Institute_Technolog/Nelagh_Matthews"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "15.01",
+            "meet_date": "Mar 28, 2025",
+            "wind": "3.1"
+        }
+    ],
+    "400mh": [
+        {
+            "place": 1,
+            "athlete": {
+                "text": "Jenkins, Sanai",
+                "link": "https://www.tfrrs.org/athletes/8296254/New_Jersey_Institute_Technolog/Sanai_Jenkins"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "1:03.28",
+            "meet_date": "Apr 25, 2025",
+            "wind": null
+        },
+        {
+            "place": 2,
+            "athlete": {
+                "text": "Matthews, Nelagh",
+                "link": "https://www.tfrrs.org/athletes/8686169/New_Jersey_Institute_Technolog/Nelagh_Matthews"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "1:05.87",
+            "meet_date": "Apr 4, 2025",
+            "wind": null
+        }
+    ]
+}

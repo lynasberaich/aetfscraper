@@ -1,0 +1,908 @@
+{
+    "100m": [
+        {
+            "place": 1,
+            "athlete": {
+                "text": "Hunt, Adaliz",
+                "link": "https://www.tfrrs.org/athletes/9026080/Albany/Adaliz_Hunt"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "11.54",
+            "meet_date": "May 17, 2025",
+            "wind": "1.3"
+        },
+        {
+            "place": 2,
+            "athlete": {
+                "text": "Pryce, Shantae",
+                "link": "https://www.tfrrs.org/athletes/8677785/Albany/Shantae_Pryce"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "11.68",
+            "meet_date": "May 3, 2025",
+            "wind": "0.2"
+        },
+        {
+            "place": 3,
+            "athlete": {
+                "text": "Vassell, Shenequa",
+                "link": "https://www.tfrrs.org/athletes/8327173/Albany/Shenequa_Vassell"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "11.71",
+            "meet_date": "May 3, 2025",
+            "wind": "0.2"
+        },
+        {
+            "place": 4,
+            "athlete": {
+                "text": "Martin, Jalena",
+                "link": "https://www.tfrrs.org/athletes/8984291/Bryant/Jalena_Martin"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "11.75",
+            "meet_date": "May 10, 2025",
+            "wind": "2.2"
+        },
+        {
+            "place": 5,
+            "athlete": {
+                "text": "Parsons, Za'Kayza",
+                "link": "https://www.tfrrs.org/athletes/7978152/UMBC/Za'Kayza_Parsons"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "11.91",
+            "meet_date": "Apr 12, 2025",
+            "wind": "3.9"
+        },
+        {
+            "place": 6,
+            "athlete": {
+                "text": "Creel, Anna",
+                "link": "https://www.tfrrs.org/athletes/8985447/UMBC/Anna_Creel"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "11.92",
+            "meet_date": "Apr 4, 2025",
+            "wind": "1.8"
+        },
+        {
+            "place": 7,
+            "athlete": {
+                "text": "Dacosta, Charliana",
+                "link": "https://www.tfrrs.org/athletes/8681025/UMBC/Charliana_Dacosta"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "11.96",
+            "meet_date": "Mar 21, 2025",
+            "wind": "+0.0"
+        },
+        {
+            "place": 8,
+            "athlete": {
+                "text": "Nada, Mariam",
+                "link": "https://www.tfrrs.org/athletes/8989697/New_Hampshire/Mariam_Nada"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "11.97",
+            "meet_date": "May 10, 2025",
+            "wind": "2.0"
+        },
+        {
+            "place": 9,
+            "athlete": {
+                "text": "McDonald, Leanne",
+                "link": "https://www.tfrrs.org/athletes/8329986/UMBC/Leanne_McDonald"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "12.00",
+            "meet_date": "Apr 4, 2025",
+            "wind": "1.8"
+        },
+        {
+            "place": 10,
+            "athlete": {
+                "text": "Tenemille, Kaylen",
+                "link": "https://www.tfrrs.org/athletes/8679234/Binghamton/Kaylen_Tenemille"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "12.06",
+            "meet_date": "Apr 19, 2025",
+            "wind": "1.5"
+        },
+        {
+            "place": 11,
+            "athlete": {
+                "text": "Hartley, Donnell",
+                "link": "https://www.tfrrs.org/athletes/7981479/Albany/Donnell_Hartley"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "12.06",
+            "meet_date": "Mar 21, 2025",
+            "wind": "-0.3"
+        },
+        {
+            "place": 12,
+            "athlete": {
+                "text": "Kane, Marie",
+                "link": "https://www.tfrrs.org/athletes/8984290/Bryant/Marie_Kane"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "12.07",
+            "meet_date": "May 10, 2025",
+            "wind": "2.2"
+        },
+        {
+            "place": 13,
+            "athlete": {
+                "text": "Braswell, Iyana",
+                "link": "https://www.tfrrs.org/athletes/8675806/Bryant/Iyana_Braswell"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "12.11",
+            "meet_date": "May 10, 2025",
+            "wind": "2.2"
+        },
+        {
+            "place": 14,
+            "athlete": {
+                "text": "Collins, Jordyn",
+                "link": "https://www.tfrrs.org/athletes/9090360/Bryant/Jordyn_Collins"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "12.15",
+            "meet_date": "May 10, 2025",
+            "wind": "2.2"
+        },
+        {
+            "place": 15,
+            "athlete": {
+                "text": "Norris, Tatum",
+                "link": "https://www.tfrrs.org/athletes/8679227/Binghamton/Tatum_Norris"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "12.17",
+            "meet_date": "Apr 18, 2025",
+            "wind": "0.7"
+        },
+        {
+            "place": 16,
+            "athlete": {
+                "text": "Akinlami, Faith",
+                "link": "https://www.tfrrs.org/athletes/8985445/UMBC/Faith_Akinlami"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "12.17",
+            "meet_date": "Apr 12, 2025",
+            "wind": "3.9"
+        },
+        {
+            "place": 17,
+            "athlete": {
+                "text": "Santos, Jayani",
+                "link": "https://www.tfrrs.org/athletes/8671245/UMass_Lowell/Jayani_Santos"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "12.19",
+            "meet_date": "Apr 18, 2025",
+            "wind": "2.5"
+        },
+        {
+            "place": 18,
+            "athlete": {
+                "text": "Rattray, Ashlyn",
+                "link": "https://www.tfrrs.org/athletes/8679231/Binghamton/Ashlyn_Rattray"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "12.21",
+            "meet_date": "May 3, 2025",
+            "wind": "0.2"
+        },
+        {
+            "place": 19,
+            "athlete": {
+                "text": "Pineda, Savannah",
+                "link": "https://www.tfrrs.org/athletes/7981526/Bryant/Savannah_Pineda"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "12.22",
+            "meet_date": "Apr 12, 2025",
+            "wind": "1.5"
+        },
+        {
+            "place": 20,
+            "athlete": {
+                "text": "Roberts, Eva",
+                "link": "https://www.tfrrs.org/athletes/8989700/New_Hampshire/Eva_Roberts"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "12.22",
+            "meet_date": "May 10, 2025",
+            "wind": "2.2"
+        },
+        {
+            "place": 21,
+            "athlete": {
+                "text": "Modupe, Dami",
+                "link": "https://www.tfrrs.org/athletes/8679226/Binghamton/Dami_Modupe"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "12.26",
+            "meet_date": "Apr 12, 2025",
+            "wind": "2.8"
+        },
+        {
+            "place": 22,
+            "athlete": {
+                "text": "Galloway, Antoinette",
+                "link": "https://www.tfrrs.org/athletes/8327167/Albany/Antoinette_Galloway"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "12.27",
+            "meet_date": "Apr 10, 2025",
+            "wind": "1.5"
+        },
+        {
+            "place": 23,
+            "athlete": {
+                "text": "Ferrer, Alepha",
+                "link": "https://www.tfrrs.org/athletes/8327534/Binghamton/Alepha_Ferrer"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "12.31",
+            "meet_date": "Apr 19, 2025",
+            "wind": "2.5"
+        },
+        {
+            "place": 24,
+            "athlete": {
+                "text": "Shanahan, Bayleigh",
+                "link": "https://www.tfrrs.org/athletes/8978618/Maine/Bayleigh_Shanahan"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "12.32",
+            "meet_date": "May 10, 2025",
+            "wind": "2.2"
+        },
+        {
+            "place": 25,
+            "athlete": {
+                "text": "Sefcik, Bella",
+                "link": "https://www.tfrrs.org/athletes/8982528/Binghamton/Bella_Sefcik"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "12.45",
+            "meet_date": "Mar 28, 2025",
+            "wind": "2.0"
+        }
+    ],
+    "200m": [
+        {
+            "place": 1,
+            "athlete": {
+                "text": "Pryce, Shantae",
+                "link": "https://www.tfrrs.org/athletes/8677785/Albany/Shantae_Pryce"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "23.95",
+            "meet_date": "May 3, 2025",
+            "wind": "0.9"
+        },
+        {
+            "place": 2,
+            "athlete": {
+                "text": "Santos, Jayani",
+                "link": "https://www.tfrrs.org/athletes/8671245/UMass_Lowell/Jayani_Santos"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "24.12",
+            "meet_date": "Mar 27, 2025",
+            "wind": "3.0"
+        },
+        {
+            "place": 3,
+            "athlete": {
+                "text": "Del Gandio, Katelyn",
+                "link": "https://www.tfrrs.org/athletes/8327165/Albany/Katelyn_Del_Gandio"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "24.19",
+            "meet_date": "May 3, 2025",
+            "wind": "2.4"
+        },
+        {
+            "place": 4,
+            "athlete": {
+                "text": "Vassell, Shenequa",
+                "link": "https://www.tfrrs.org/athletes/8327173/Albany/Shenequa_Vassell"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "24.34",
+            "meet_date": "May 3, 2025",
+            "wind": "0.9"
+        },
+        {
+            "place": 5,
+            "athlete": {
+                "text": "Stephens, Genelle",
+                "link": "https://www.tfrrs.org/athletes/8681034/UMBC/Genelle_Stephens"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "24.39",
+            "meet_date": "Apr 12, 2025",
+            "wind": "3.1"
+        },
+        {
+            "place": 6,
+            "athlete": {
+                "text": "Creel, Anna",
+                "link": "https://www.tfrrs.org/athletes/8985447/UMBC/Anna_Creel"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "24.55",
+            "meet_date": "May 16, 2025",
+            "wind": "0.7"
+        },
+        {
+            "place": 7,
+            "athlete": {
+                "text": "McDonald, Leanne",
+                "link": "https://www.tfrrs.org/athletes/8329986/UMBC/Leanne_McDonald"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "24.57",
+            "meet_date": "May 3, 2025",
+            "wind": "0.9"
+        },
+        {
+            "place": 8,
+            "athlete": {
+                "text": "Norris, Tatum",
+                "link": "https://www.tfrrs.org/athletes/8679227/Binghamton/Tatum_Norris"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "24.69",
+            "meet_date": "Apr 18, 2025",
+            "wind": "-0.4"
+        },
+        {
+            "place": 9,
+            "athlete": {
+                "text": "Pineda, Savannah",
+                "link": "https://www.tfrrs.org/athletes/7981526/Bryant/Savannah_Pineda"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "24.79",
+            "meet_date": "Apr 3, 2025",
+            "wind": "0.9"
+        },
+        {
+            "place": 10,
+            "athlete": {
+                "text": "Hunt, Adaliz",
+                "link": "https://www.tfrrs.org/athletes/9026080/Albany/Adaliz_Hunt"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "24.82",
+            "meet_date": "Apr 4, 2025",
+            "wind": "3.0"
+        },
+        {
+            "place": 11,
+            "athlete": {
+                "text": "Rattray, Ashlyn",
+                "link": "https://www.tfrrs.org/athletes/8679231/Binghamton/Ashlyn_Rattray"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "24.92",
+            "meet_date": "May 3, 2025",
+            "wind": "0.2"
+        },
+        {
+            "place": 12,
+            "athlete": {
+                "text": "Dacosta, Charliana",
+                "link": "https://www.tfrrs.org/athletes/8681025/UMBC/Charliana_Dacosta"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "24.93",
+            "meet_date": "Mar 21, 2025",
+            "wind": "0.3"
+        },
+        {
+            "place": 13,
+            "athlete": {
+                "text": "Rogers, Taylor",
+                "link": "https://www.tfrrs.org/athletes/8677786/Albany/Taylor_Rogers"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "24.94",
+            "meet_date": "Apr 18, 2025",
+            "wind": "3.6"
+        },
+        {
+            "place": 14,
+            "athlete": {
+                "text": "Sibblies, Shannel",
+                "link": "https://www.tfrrs.org/athletes/8681033/UMBC/Shannel_Sibblies"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "24.99",
+            "meet_date": "Apr 18, 2025",
+            "wind": "-0.4"
+        },
+        {
+            "place": 15,
+            "athlete": {
+                "text": "Grasso , Alexandria",
+                "link": "https://www.tfrrs.org/athletes/7712829/UMass_Lowell/Alexandria__Grasso_"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "25.08",
+            "meet_date": "May 3, 2025",
+            "wind": "2.4"
+        },
+        {
+            "place": 16,
+            "athlete": {
+                "text": "Parsons, Za'Kayza",
+                "link": "https://www.tfrrs.org/athletes/7978152/UMBC/Za'Kayza_Parsons"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "25.11",
+            "meet_date": "Apr 12, 2025",
+            "wind": "3.2"
+        },
+        {
+            "place": 17,
+            "athlete": {
+                "text": "Akinlami, Faith",
+                "link": "https://www.tfrrs.org/athletes/8985445/UMBC/Faith_Akinlami"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "25.15",
+            "meet_date": "Apr 4, 2025",
+            "wind": "-0.7"
+        },
+        {
+            "place": 18,
+            "athlete": {
+                "text": "Collins, Jordyn",
+                "link": "https://www.tfrrs.org/athletes/9090360/Bryant/Jordyn_Collins"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "25.28",
+            "meet_date": "May 3, 2025",
+            "wind": "0.2"
+        },
+        {
+            "place": 19,
+            "athlete": {
+                "text": "Tenemille, Kaylen",
+                "link": "https://www.tfrrs.org/athletes/8679234/Binghamton/Kaylen_Tenemille"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "25.35",
+            "meet_date": "Apr 12, 2025",
+            "wind": "2.1"
+        },
+        {
+            "place": 20,
+            "athlete": {
+                "text": "Horst, Kelcie",
+                "link": "https://www.tfrrs.org/athletes/7981876/Maine/Kelcie_Horst"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "25.42",
+            "meet_date": "Mar 27, 2025",
+            "wind": "0.2"
+        },
+        {
+            "place": 21,
+            "athlete": {
+                "text": "Rausa, Gabby",
+                "link": "https://www.tfrrs.org/athletes/7986654/Vermont/Gabby_Rausa"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "25.43",
+            "meet_date": "May 3, 2025",
+            "wind": "0.2"
+        },
+        {
+            "place": 22,
+            "athlete": {
+                "text": "Koger, Dianna",
+                "link": "https://www.tfrrs.org/athletes/8329985/UMBC/Dianna_Koger"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "25.47",
+            "meet_date": "Apr 18, 2025",
+            "wind": "-0.8"
+        },
+        {
+            "place": 23,
+            "athlete": {
+                "text": "Blanchard, Jaymarly",
+                "link": "https://www.tfrrs.org/athletes/8327164/Albany/Jaymarly_Blanchard"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "25.48",
+            "meet_date": "Apr 18, 2025",
+            "wind": "3.6"
+        },
+        {
+            "place": 24,
+            "athlete": {
+                "text": "Haddad, Lauren",
+                "link": "https://www.tfrrs.org/athletes/8675807/Bryant/Lauren_Haddad"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "25.49",
+            "meet_date": "May 16, 2025",
+            "wind": "0.2"
+        },
+        {
+            "place": 25,
+            "athlete": {
+                "text": "Broussard, Amanda",
+                "link": "https://www.tfrrs.org/athletes/8328693/Bryant/Amanda_Broussard"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "25.49",
+            "meet_date": "May 16, 2025",
+            "wind": "1.9"
+        }
+    ],
+    "400m": [
+        {
+            "place": 1,
+            "athlete": {
+                "text": "McDonald, Leanne",
+                "link": "https://www.tfrrs.org/athletes/8329986/UMBC/Leanne_McDonald"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "54.74",
+            "meet_date": "May 3, 2025",
+            "wind": null
+        },
+        {
+            "place": 2,
+            "athlete": {
+                "text": "Pineda, Savannah",
+                "link": "https://www.tfrrs.org/athletes/7981526/Bryant/Savannah_Pineda"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "54.92",
+            "meet_date": "May 3, 2025",
+            "wind": null
+        },
+        {
+            "place": 3,
+            "athlete": {
+                "text": "Stephens, Genelle",
+                "link": "https://www.tfrrs.org/athletes/8681034/UMBC/Genelle_Stephens"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "55.16",
+            "meet_date": "May 3, 2025",
+            "wind": null
+        },
+        {
+            "place": 4,
+            "athlete": {
+                "text": "Santos, Jayani",
+                "link": "https://www.tfrrs.org/athletes/8671245/UMass_Lowell/Jayani_Santos"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "55.18",
+            "meet_date": "Apr 18, 2025",
+            "wind": null
+        },
+        {
+            "place": 5,
+            "athlete": {
+                "text": "Norris, Tatum",
+                "link": "https://www.tfrrs.org/athletes/8679227/Binghamton/Tatum_Norris"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "55.44",
+            "meet_date": "May 3, 2025",
+            "wind": null
+        },
+        {
+            "place": 6,
+            "athlete": {
+                "text": "Sibblies, Shannel",
+                "link": "https://www.tfrrs.org/athletes/8681033/UMBC/Shannel_Sibblies"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "55.50",
+            "meet_date": "Apr 18, 2025",
+            "wind": null
+        },
+        {
+            "place": 7,
+            "athlete": {
+                "text": "Creel, Anna",
+                "link": "https://www.tfrrs.org/athletes/8985447/UMBC/Anna_Creel"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "56.44",
+            "meet_date": "Apr 18, 2025",
+            "wind": null
+        },
+        {
+            "place": 8,
+            "athlete": {
+                "text": "Rogers, Taylor",
+                "link": "https://www.tfrrs.org/athletes/8677786/Albany/Taylor_Rogers"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "56.50",
+            "meet_date": "May 3, 2025",
+            "wind": null
+        },
+        {
+            "place": 9,
+            "athlete": {
+                "text": "Schmidt, Dalyce",
+                "link": "https://www.tfrrs.org/athletes/8681031/UMBC/Dalyce_Schmidt"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "56.57",
+            "meet_date": "May 3, 2025",
+            "wind": null
+        },
+        {
+            "place": 10,
+            "athlete": {
+                "text": "Akinlami, Faith",
+                "link": "https://www.tfrrs.org/athletes/8985445/UMBC/Faith_Akinlami"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "56.80",
+            "meet_date": "Apr 18, 2025",
+            "wind": null
+        },
+        {
+            "place": 11,
+            "athlete": {
+                "text": "Ashby, Kierstin",
+                "link": "https://www.tfrrs.org/athletes/8975089/New_Jersey_Institute_Technolog/Kierstin_Ashby"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "56.92",
+            "meet_date": "Apr 4, 2025",
+            "wind": null
+        },
+        {
+            "place": 12,
+            "athlete": {
+                "text": "Haddad, Lauren",
+                "link": "https://www.tfrrs.org/athletes/8675807/Bryant/Lauren_Haddad"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "57.28",
+            "meet_date": "May 10, 2025",
+            "wind": null
+        },
+        {
+            "place": 13,
+            "athlete": {
+                "text": "Mainer-Smith, Nia",
+                "link": "https://www.tfrrs.org/athletes/8309737/UMass_Lowell/Nia__Mainer-Smith"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "57.97",
+            "meet_date": "Apr 11, 2025",
+            "wind": null
+        },
+        {
+            "place": 14,
+            "athlete": {
+                "text": "Cyr, Maddie",
+                "link": "https://www.tfrrs.org/athletes/8978612/Maine/Maddie_Cyr"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "57.99",
+            "meet_date": "Apr 19, 2025",
+            "wind": null
+        },
+        {
+            "place": 15,
+            "athlete": {
+                "text": "Broussard, Amanda",
+                "link": "https://www.tfrrs.org/athletes/8328693/Bryant/Amanda_Broussard"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "58.15",
+            "meet_date": "May 3, 2025",
+            "wind": null
+        },
+        {
+            "place": 16,
+            "athlete": {
+                "text": "Thompson, Danielle",
+                "link": "https://www.tfrrs.org/athletes/8309740/UMass_Lowell/Danielle__Thompson"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "58.21",
+            "meet_date": "Apr 18, 2025",
+            "wind": null
+        },
+        {
+            "place": 17,
+            "athlete": {
+                "text": "Edwards, Savanna",
+                "link": "https://www.tfrrs.org/athletes/8982519/Binghamton/Savanna_Edwards"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "58.25",
+            "meet_date": "Apr 19, 2025",
+            "wind": null
+        },
+        {
+            "place": 18,
+            "athlete": {
+                "text": "Rausa, Gabby",
+                "link": "https://www.tfrrs.org/athletes/7986654/Vermont/Gabby_Rausa"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "58.29",
+            "meet_date": "May 3, 2025",
+            "wind": null
+        },
+        {
+            "place": 19,
+            "athlete": {
+                "text": "De La Rosa, Tishany",
+                "link": "https://www.tfrrs.org/athletes/8984287/Bryant/Tishany_De_La_Rosa"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "58.44",
+            "meet_date": "May 3, 2025",
+            "wind": null
+        },
+        {
+            "place": 20,
+            "athlete": {
+                "text": "Morrison, Tegan",
+                "link": "https://www.tfrrs.org/athletes/7761675/Maine/Tegan_Morrison"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "58.48",
+            "meet_date": "Apr 19, 2025",
+            "wind": null
+        },
+        {
+            "place": 21,
+            "athlete": {
+                "text": "Julvez, Lucia",
+                "link": "https://www.tfrrs.org/athletes/8336993/New_Jersey_Institute_Technolog/Lucia_Julvez"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "58.92",
+            "meet_date": "Apr 4, 2025",
+            "wind": null
+        },
+        {
+            "place": 22,
+            "athlete": {
+                "text": "Duran, Kaya",
+                "link": "https://www.tfrrs.org/athletes/8679220/Binghamton/Kaya_Duran"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "58.93",
+            "meet_date": "Apr 3, 2025",
+            "wind": null
+        },
+        {
+            "place": 23,
+            "athlete": {
+                "text": "Stebe, Amelia",
+                "link": "https://www.tfrrs.org/athletes/8973463/UMass_Lowell/Amelia_Stebe"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "59.06",
+            "meet_date": "Apr 4, 2025",
+            "wind": null
+        },
+        {
+            "place": 24,
+            "athlete": {
+                "text": "Toepfer, Sofia",
+                "link": "https://www.tfrrs.org/athletes/8982531/Binghamton/Sofia_Toepfer"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "59.21",
+            "meet_date": "Apr 19, 2025",
+            "wind": null
+        },
+        {
+            "place": 25,
+            "athlete": {
+                "text": "Primavera, Catherine",
+                "link": "https://www.tfrrs.org/athletes/8978617/Maine/Catherine_Primavera"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "59.27",
+            "meet_date": "May 3, 2025",
+            "wind": null
+        }
+    ]
+}
