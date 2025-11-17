@@ -3,6 +3,7 @@ import re
 import json, time
 from pathlib import Path
 from bs4 import BeautifulSoup
+from datetime import datetime
 
 """
 EVENT ID KEY:
@@ -58,25 +59,25 @@ FEMALE_ALL = ["100m", "200m", "400m", "800m", "1500m", "3000msc", "5000m", "1000
 AEURL = "https://www.tfrrs.org/leagues/61.html"
 AE2025OUTDOOR = "https://www.tfrrs.org/lists/5104/America_East_Outdoor_Performance_List"
 
-UMBC25OUTDOOR_M = "https://www.tfrrs.org/top_performances/MD_college_m_UMBC.html?list_hnd=5027&season_hnd=681"
-BING25OUTDOOR_M = "https://www.tfrrs.org/top_performances/NY_college_m_Binghamton.html?list_hnd=5027&season_hnd=681"
-BRYANT25OUTDOOR_M = "https://www.tfrrs.org/top_performances/RI_college_m_Bryant.html?list_hnd=5027&season_hnd=681"
-UNH25OUTDOOR_M = "https://www.tfrrs.org/top_performances/NH_college_m_New_Hampshire.html?list_hnd=5027&season_hnd=681"
-ALBANY25OUTDOOR_M = "https://www.tfrrs.org/top_performances/NY_college_m_Albany.html?list_hnd=5027&season_hnd=681"
-MAINE25OUTDOOR_M = "https://www.tfrrs.org/top_performances/ME_college_m_Maine.html?list_hnd=5027&season_hnd=681"
-VERMONT25OUTDOOR_M = "https://www.tfrrs.org/top_performances/VT_college_m_Vermont.html?list_hnd=5027&season_hnd=681"
-NJIT25OUTDOOR_M = "https://www.tfrrs.org/top_performances/NJ_college_m_New_Jersey_Institute_Technolog.html?list_hnd=5027&season_hnd=681"
-UML25OUTDOOR_M = "https://www.tfrrs.org/top_performances/MA_college_m_UMass_Lowell.html?list_hnd=5027&season_hnd=681"
+UMBC25OUTDOOR_M = "https://www.tfrrs.org/all_performances/MD_college_m_UMBC.html?list_hnd=5027&season_hnd="
+BING25OUTDOOR_M = "https://www.tfrrs.org/all_performances/NY_college_m_Binghamton.html?list_hnd=5027&season_hnd="
+BRYANT25OUTDOOR_M = "https://www.tfrrs.org/all_performances/RI_college_m_Bryant.html?list_hnd=5027&season_hnd="
+UNH25OUTDOOR_M = "https://www.tfrrs.org/all_performances/NH_college_m_New_Hampshire.html?list_hnd=5027&season_hnd="
+ALBANY25OUTDOOR_M = "https://www.tfrrs.org/all_performances/NY_college_m_Albany.html?list_hnd=5027&season_hnd="
+MAINE25OUTDOOR_M = "https://www.tfrrs.org/all_performances/ME_college_m_Maine.html?list_hnd=5027&season_hnd="
+VERMONT25OUTDOOR_M = "https://www.tfrrs.org/all_performances/VT_college_m_Vermont.html?list_hnd=5027&season_hnd="
+NJIT25OUTDOOR_M = "https://www.tfrrs.org/all_performances/NJ_college_m_New_Jersey_Institute_Technolog.html?list_hnd=5027&season_hnd="
+UML25OUTDOOR_M = "https://www.tfrrs.org/all_performances/MA_college_m_UMass_Lowell.html?list_hnd=5027&season_hnd="
 
-UMBC25OUTDOOR_F = "https://www.tfrrs.org/top_performances/MD_college_f_UMBC.html?list_hnd=5027&season_hnd=681"
-BING25OUTDOOR_F = "https://www.tfrrs.org/top_performances/NY_college_f_Binghamton.html?list_hnd=5027&season_hnd=681"
-BRYANT25OUTDOOR_F = "https://www.tfrrs.org/top_performances/RI_college_f_Bryant.html?list_hnd=5027&season_hnd=681"
-UNH25OUTDOOR_F = "https://www.tfrrs.org/top_performances/NH_college_f_New_Hampshire.html?list_hnd=5027&season_hnd=681"
-ALBANY25OUTDOOR_F = "https://www.tfrrs.org/top_performances/NY_college_f_Albany.html?list_hnd=5027&season_hnd=681"
-MAINE25OUTDOOR_F = "https://www.tfrrs.org/top_performances/ME_college_f_Maine.html?list_hnd=5027&season_hnd=681"
-VERMONT25OUTDOOR_F = "https://www.tfrrs.org/top_performances/VT_college_f_Vermont.html?list_hnd=5027&season_hnd=681"
-NJIT25OUTDOOR_F = "https://www.tfrrs.org/top_performances/NJ_college_f_New_Jersey_Institute_Technolog.html?list_hnd=5027&season_hnd=681"
-UML25OUTDOOR_F = "https://www.tfrrs.org/top_performances/MA_college_f_UMass_Lowell.html?list_hnd=5027&season_hnd=681"
+UMBC25OUTDOOR_F = "https://www.tfrrs.org/all_performances/MD_college_f_UMBC.html?list_hnd=5027&season_hnd="
+BING25OUTDOOR_F = "https://www.tfrrs.org/all_performances/NY_college_f_Binghamton.html?list_hnd=5027&season_hnd="
+BRYANT25OUTDOOR_F = "https://www.tfrrs.org/all_performances/RI_college_f_Bryant.html?list_hnd=5027&season_hnd="
+UNH25OUTDOOR_F = "https://www.tfrrs.org/all_performances/NH_college_f_New_Hampshire.html?list_hnd=5027&season_hnd="
+ALBANY25OUTDOOR_F = "https://www.tfrrs.org/all_performances/NY_college_f_Albany.html?list_hnd=5027&season_hnd="
+MAINE25OUTDOOR_F = "https://www.tfrrs.org/all_performances/ME_college_f_Maine.html?list_hnd=5027&season_hnd="
+VERMONT25OUTDOOR_F = "https://www.tfrrs.org/all_performances/VT_college_f_Vermont.html?list_hnd=5027&season_hnd="
+NJIT25OUTDOOR_F = "https://www.tfrrs.org/all_performances/NJ_college_f_New_Jersey_Institute_Technolog.html?list_hnd=5027&season_hnd="
+UML25OUTDOOR_F = "https://www.tfrrs.org/all_performances/MA_college_f_UMass_Lowell.html?list_hnd=5027&season_hnd="
 
 MALE_TEAMS = {
     "Binghamton": BING25OUTDOOR_M, "Bryant":BRYANT25OUTDOOR_M, "Maine":MAINE25OUTDOOR_M,
@@ -88,6 +89,25 @@ FEMALE_TEAMS = {
     "Binghamton": BING25OUTDOOR_F, "Bryant":BRYANT25OUTDOOR_F, "Maine":MAINE25OUTDOOR_F,
     "NJIT":NJIT25OUTDOOR_F, "UNH":UNH25OUTDOOR_F, "Albany":ALBANY25OUTDOOR_F,
     "UMBC":UMBC25OUTDOOR_F, "UML":UML25OUTDOOR_F, "Vermont":VERMONT25OUTDOOR_F
+}
+
+YEARS = {
+    2025:367,
+    2024 :320,
+    2023:277,
+    2022:238,
+    2021:203,
+    2020:176,
+    2019:146,
+    2018:123,
+    2017:102,
+    2016:83,
+    2015:65,
+    2014:47,
+    2013:29,
+    2012:17,
+    2011:9,
+    2010:1
 }
 
 BASE = "https://www.tfrrs.org"
@@ -178,6 +198,7 @@ def get_america_east_performances(teams, event_group, gender):
             place = 1
             if event_div:
                 for row in event_div.find_all("div", class_="performance-list-row"):
+                    validEntry = True
                     entry = {}
                     entry["place"] = get_col("col-place", row) if event_group == "A" else place
                     entry["athlete"] = get_col("col-athlete", row)
@@ -193,9 +214,17 @@ def get_america_east_performances(teams, event_group, gender):
                     entry["time"] = time
                     entry["meet_date"] = meet_date
                     entry["wind"] = wind
-
-                    event_list.append(entry)
-                    place += 1
+                    if "May" in meet_date:
+                        meet_date_list = meet_date.split()
+                        date = meet_date_list[1]
+                        day_num = date[:-1]
+                        day_num = int(day_num)
+                        if day_num >= 3: #hard coding for 2025
+                            validEntry = False
+                        
+                    if validEntry:
+                        event_list.append(entry)
+                        place += 1
                     #THIS IS WITHIN THE CONTEXT OF THE CONFERENCES WHICH STILL MIGHT BE IMPORTANT???
                     # if entry["team"]["text"] == "UMBC":
                     #     umbc_event_list.append(entry)
@@ -209,6 +238,7 @@ def get_america_east_performances(teams, event_group, gender):
 
 
 if __name__ == "__main__":
+    
     print("Hi! Welcome to the AE track and field performance scraper!")
     print("Here is a list of all of the teams in America East:")
     print("\t -Binghamton \t -Bryant \t -Maine")

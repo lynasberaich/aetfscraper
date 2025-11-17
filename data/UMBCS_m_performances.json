@@ -1,0 +1,704 @@
+{
+    "100m": [
+        {
+            "place": 1,
+            "athlete": {
+                "text": "Balde, Alpha",
+                "link": "https://www.tfrrs.org/athletes/8985427/UMBC/Alpha_Balde"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "10.20",
+            "meet_date": "Apr 4, 2025",
+            "wind": "3.2"
+        },
+        {
+            "place": 2,
+            "athlete": {
+                "text": "Burke, Jaeden",
+                "link": "https://www.tfrrs.org/athletes/7783014/UMBC/Jaeden_Burke"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "10.47",
+            "meet_date": "Apr 4, 2025",
+            "wind": "3.2"
+        },
+        {
+            "place": 3,
+            "athlete": {
+                "text": "Balde, Alpha",
+                "link": "https://www.tfrrs.org/athletes/8985427/UMBC/Alpha_Balde"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "10.49",
+            "meet_date": "Mar 21, 2025",
+            "wind": "-0.5"
+        },
+        {
+            "place": 4,
+            "athlete": {
+                "text": "Balde, Alpha",
+                "link": "https://www.tfrrs.org/athletes/8985427/UMBC/Alpha_Balde"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "10.54",
+            "meet_date": "Apr 24, 2025",
+            "wind": "2.0"
+        },
+        {
+            "place": 5,
+            "athlete": {
+                "text": "Dukes, Damon",
+                "link": "https://www.tfrrs.org/athletes/8985428/UMBC/Damon_Dukes"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "10.58",
+            "meet_date": "Apr 4, 2025",
+            "wind": "3.2"
+        },
+        {
+            "place": 6,
+            "athlete": {
+                "text": "Balde, Alpha",
+                "link": "https://www.tfrrs.org/athletes/8985427/UMBC/Alpha_Balde"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "10.58",
+            "meet_date": "Apr 18, 2025",
+            "wind": "0.1"
+        },
+        {
+            "place": 7,
+            "athlete": {
+                "text": "Burke, Jaeden",
+                "link": "https://www.tfrrs.org/athletes/7783014/UMBC/Jaeden_Burke"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "10.60",
+            "meet_date": "Apr 24, 2025",
+            "wind": "0.4"
+        },
+        {
+            "place": 8,
+            "athlete": {
+                "text": "Balde, Alpha",
+                "link": "https://www.tfrrs.org/athletes/8985427/UMBC/Alpha_Balde"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "10.60",
+            "meet_date": "Apr 18, 2025",
+            "wind": "0.5"
+        },
+        {
+            "place": 9,
+            "athlete": {
+                "text": "Burke, Jaeden",
+                "link": "https://www.tfrrs.org/athletes/7783014/UMBC/Jaeden_Burke"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "10.61",
+            "meet_date": "Apr 18, 2025",
+            "wind": "0.5"
+        },
+        {
+            "place": 10,
+            "athlete": {
+                "text": "Raji, Alim",
+                "link": "https://www.tfrrs.org/athletes/8985432/UMBC/Alim_Raji"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "10.62",
+            "meet_date": "Apr 4, 2025",
+            "wind": "1.8"
+        },
+        {
+            "place": 11,
+            "athlete": {
+                "text": "Dukes, Damon",
+                "link": "https://www.tfrrs.org/athletes/8985428/UMBC/Damon_Dukes"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "10.62",
+            "meet_date": "Mar 28, 2025",
+            "wind": "0.3"
+        },
+        {
+            "place": 12,
+            "athlete": {
+                "text": "Burke, Jaeden",
+                "link": "https://www.tfrrs.org/athletes/7783014/UMBC/Jaeden_Burke"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "10.69",
+            "meet_date": "Apr 18, 2025",
+            "wind": "-0.7"
+        },
+        {
+            "place": 13,
+            "athlete": {
+                "text": "Balde, Alpha",
+                "link": "https://www.tfrrs.org/athletes/8985427/UMBC/Alpha_Balde"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "10.73",
+            "meet_date": "Apr 24, 2025",
+            "wind": "0.3"
+        },
+        {
+            "place": 14,
+            "athlete": {
+                "text": "Dukes, Damon",
+                "link": "https://www.tfrrs.org/athletes/8985428/UMBC/Damon_Dukes"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "10.74",
+            "meet_date": "Apr 12, 2025",
+            "wind": "3.9"
+        },
+        {
+            "place": 15,
+            "athlete": {
+                "text": "Burke, Jaeden",
+                "link": "https://www.tfrrs.org/athletes/7783014/UMBC/Jaeden_Burke"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "10.76",
+            "meet_date": "Mar 28, 2025",
+            "wind": "1.8"
+        },
+        {
+            "place": 16,
+            "athlete": {
+                "text": "Dukes, Damon",
+                "link": "https://www.tfrrs.org/athletes/8985428/UMBC/Damon_Dukes"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "10.79",
+            "meet_date": "Apr 18, 2025",
+            "wind": "-0.7"
+        },
+        {
+            "place": 17,
+            "athlete": {
+                "text": "Dukes, Damon",
+                "link": "https://www.tfrrs.org/athletes/8985428/UMBC/Damon_Dukes"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "10.80",
+            "meet_date": "Mar 28, 2025",
+            "wind": "0.2"
+        },
+        {
+            "place": 18,
+            "athlete": {
+                "text": "Raji, Alim",
+                "link": "https://www.tfrrs.org/athletes/8985432/UMBC/Alim_Raji"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "10.82",
+            "meet_date": "Apr 18, 2025",
+            "wind": "+0.0"
+        },
+        {
+            "place": 19,
+            "athlete": {
+                "text": "Iheanacho, Fred-Morgan",
+                "link": "https://www.tfrrs.org/athletes/8550446/UMBC/Fred-Morgan__Iheanacho"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "10.93",
+            "meet_date": "Apr 4, 2025",
+            "wind": "0.7"
+        },
+        {
+            "place": 20,
+            "athlete": {
+                "text": "Iheanacho, Fred-Morgan",
+                "link": "https://www.tfrrs.org/athletes/8550446/UMBC/Fred-Morgan__Iheanacho"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "10.94",
+            "meet_date": "Apr 12, 2025",
+            "wind": "2.8"
+        },
+        {
+            "place": 21,
+            "athlete": {
+                "text": "Iheanacho, Fred-Morgan",
+                "link": "https://www.tfrrs.org/athletes/8550446/UMBC/Fred-Morgan__Iheanacho"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "11.14",
+            "meet_date": "Apr 18, 2025",
+            "wind": "-0.7"
+        },
+        {
+            "place": 22,
+            "athlete": {
+                "text": "Young, Donovan",
+                "link": "https://www.tfrrs.org/athletes/8329959/UMBC/Donovan_Young"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "11.30",
+            "meet_date": "Mar 28, 2025",
+            "wind": "1.1"
+        }
+    ],
+    "200m": [
+        {
+            "place": 1,
+            "athlete": {
+                "text": "Balde, Alpha",
+                "link": "https://www.tfrrs.org/athletes/8985427/UMBC/Alpha_Balde"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "21.02",
+            "meet_date": "Apr 18, 2025",
+            "wind": "-0.2"
+        },
+        {
+            "place": 2,
+            "athlete": {
+                "text": "Balde, Alpha",
+                "link": "https://www.tfrrs.org/athletes/8985427/UMBC/Alpha_Balde"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "21.13",
+            "meet_date": "Apr 10, 2025",
+            "wind": "-0.1"
+        },
+        {
+            "place": 3,
+            "athlete": {
+                "text": "Balde, Alpha",
+                "link": "https://www.tfrrs.org/athletes/8985427/UMBC/Alpha_Balde"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "21.15",
+            "meet_date": "Mar 28, 2025",
+            "wind": "-1.0"
+        },
+        {
+            "place": 4,
+            "athlete": {
+                "text": "Miller, Marquis",
+                "link": "https://www.tfrrs.org/athletes/7978272/UMBC/Marquis_Miller"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "21.47",
+            "meet_date": "Apr 4, 2025",
+            "wind": "+0.0"
+        },
+        {
+            "place": 5,
+            "athlete": {
+                "text": "Miller, Marquis",
+                "link": "https://www.tfrrs.org/athletes/7978272/UMBC/Marquis_Miller"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "21.65",
+            "meet_date": "Apr 18, 2025",
+            "wind": "+0.0"
+        },
+        {
+            "place": 6,
+            "athlete": {
+                "text": "Dukes, Damon",
+                "link": "https://www.tfrrs.org/athletes/8985428/UMBC/Damon_Dukes"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "21.66",
+            "meet_date": "Apr 4, 2025",
+            "wind": "+0.0"
+        },
+        {
+            "place": 7,
+            "athlete": {
+                "text": "Miller, Marquis",
+                "link": "https://www.tfrrs.org/athletes/7978272/UMBC/Marquis_Miller"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "21.69",
+            "meet_date": "Mar 28, 2025",
+            "wind": "-1.0"
+        },
+        {
+            "place": 8,
+            "athlete": {
+                "text": "Burke, Jaeden",
+                "link": "https://www.tfrrs.org/athletes/7783014/UMBC/Jaeden_Burke"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "21.71",
+            "meet_date": "Mar 28, 2025",
+            "wind": "-0.4"
+        },
+        {
+            "place": 9,
+            "athlete": {
+                "text": "Raji, Alim",
+                "link": "https://www.tfrrs.org/athletes/8985432/UMBC/Alim_Raji"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "21.75",
+            "meet_date": "Mar 28, 2025",
+            "wind": "-1.0"
+        },
+        {
+            "place": 10,
+            "athlete": {
+                "text": "Burke, Jaeden",
+                "link": "https://www.tfrrs.org/athletes/7783014/UMBC/Jaeden_Burke"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "21.75",
+            "meet_date": "Mar 21, 2025",
+            "wind": "0.8"
+        },
+        {
+            "place": 11,
+            "athlete": {
+                "text": "Raji, Alim",
+                "link": "https://www.tfrrs.org/athletes/8985432/UMBC/Alim_Raji"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "21.88",
+            "meet_date": "Mar 21, 2025",
+            "wind": "0.5"
+        },
+        {
+            "place": 12,
+            "athlete": {
+                "text": "Dukes, Damon",
+                "link": "https://www.tfrrs.org/athletes/8985428/UMBC/Damon_Dukes"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "21.89",
+            "meet_date": "Apr 18, 2025",
+            "wind": "-0.4"
+        },
+        {
+            "place": 13,
+            "athlete": {
+                "text": "Raji, Alim",
+                "link": "https://www.tfrrs.org/athletes/8985432/UMBC/Alim_Raji"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "21.95",
+            "meet_date": "Apr 10, 2025",
+            "wind": "-0.3"
+        },
+        {
+            "place": 14,
+            "athlete": {
+                "text": "Dukes, Damon",
+                "link": "https://www.tfrrs.org/athletes/8985428/UMBC/Damon_Dukes"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "21.97",
+            "meet_date": "Mar 28, 2025",
+            "wind": "-0.4"
+        },
+        {
+            "place": 15,
+            "athlete": {
+                "text": "Iheanacho, Fred-Morgan",
+                "link": "https://www.tfrrs.org/athletes/8550446/UMBC/Fred-Morgan__Iheanacho"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "22.16",
+            "meet_date": "Apr 18, 2025",
+            "wind": "0.5"
+        },
+        {
+            "place": 16,
+            "athlete": {
+                "text": "Iheanacho, Fred-Morgan",
+                "link": "https://www.tfrrs.org/athletes/8550446/UMBC/Fred-Morgan__Iheanacho"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "22.17",
+            "meet_date": "Apr 4, 2025",
+            "wind": "+0.0"
+        },
+        {
+            "place": 17,
+            "athlete": {
+                "text": "Iheanacho, Fred-Morgan",
+                "link": "https://www.tfrrs.org/athletes/8550446/UMBC/Fred-Morgan__Iheanacho"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "22.35",
+            "meet_date": "Apr 12, 2025",
+            "wind": "3.1"
+        },
+        {
+            "place": 18,
+            "athlete": {
+                "text": "Iheanacho, Fred-Morgan",
+                "link": "https://www.tfrrs.org/athletes/8550446/UMBC/Fred-Morgan__Iheanacho"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "22.72",
+            "meet_date": "Mar 28, 2025",
+            "wind": "-0.4"
+        },
+        {
+            "place": 19,
+            "athlete": {
+                "text": "Olujumu, Pelumi",
+                "link": "https://www.tfrrs.org/athletes/8329952/UMBC/Pelumi_Olujumu"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "22.82",
+            "meet_date": "Apr 18, 2025",
+            "wind": "0.8"
+        },
+        {
+            "place": 20,
+            "athlete": {
+                "text": "Elsamani, Ahmed",
+                "link": "https://www.tfrrs.org/athletes/8985429/UMBC/Ahmed_Elsamani"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "23.79",
+            "meet_date": "Mar 28, 2025",
+            "wind": "-1.2"
+        }
+    ],
+    "400m": [
+        {
+            "place": 1,
+            "athlete": {
+                "text": "Miller, Marquis",
+                "link": "https://www.tfrrs.org/athletes/7978272/UMBC/Marquis_Miller"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "46.85",
+            "meet_date": "Apr 10, 2025",
+            "wind": null
+        },
+        {
+            "place": 2,
+            "athlete": {
+                "text": "Miller, Marquis",
+                "link": "https://www.tfrrs.org/athletes/7978272/UMBC/Marquis_Miller"
+            },
+            "team": null,
+            "year": "SR-4",
+            "time": "47.37",
+            "meet_date": "Mar 21, 2025",
+            "wind": null
+        },
+        {
+            "place": 3,
+            "athlete": {
+                "text": "Balde, Alpha",
+                "link": "https://www.tfrrs.org/athletes/8985427/UMBC/Alpha_Balde"
+            },
+            "team": null,
+            "year": "SO-2",
+            "time": "47.86",
+            "meet_date": "Mar 28, 2025",
+            "wind": null
+        },
+        {
+            "place": 4,
+            "athlete": {
+                "text": "Olujumu, Pelumi",
+                "link": "https://www.tfrrs.org/athletes/8329952/UMBC/Pelumi_Olujumu"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "49.02",
+            "meet_date": "Apr 4, 2025",
+            "wind": null
+        },
+        {
+            "place": 5,
+            "athlete": {
+                "text": "Iheanacho, Fred-Morgan",
+                "link": "https://www.tfrrs.org/athletes/8550446/UMBC/Fred-Morgan__Iheanacho"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "49.47",
+            "meet_date": "Apr 18, 2025",
+            "wind": null
+        },
+        {
+            "place": 6,
+            "athlete": {
+                "text": "Raji, Alim",
+                "link": "https://www.tfrrs.org/athletes/8985432/UMBC/Alim_Raji"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "49.84",
+            "meet_date": "Mar 28, 2025",
+            "wind": null
+        },
+        {
+            "place": 7,
+            "athlete": {
+                "text": "Febles, Justin",
+                "link": "https://www.tfrrs.org/athletes/8985430/UMBC/Justin_Febles"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "49.97",
+            "meet_date": "Apr 18, 2025",
+            "wind": null
+        },
+        {
+            "place": 8,
+            "athlete": {
+                "text": "Olujumu, Pelumi",
+                "link": "https://www.tfrrs.org/athletes/8329952/UMBC/Pelumi_Olujumu"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "50.05",
+            "meet_date": "Apr 12, 2025",
+            "wind": null
+        },
+        {
+            "place": 9,
+            "athlete": {
+                "text": "Febles, Justin",
+                "link": "https://www.tfrrs.org/athletes/8985430/UMBC/Justin_Febles"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "50.16",
+            "meet_date": "Apr 4, 2025",
+            "wind": null
+        },
+        {
+            "place": 10,
+            "athlete": {
+                "text": "Febles, Justin",
+                "link": "https://www.tfrrs.org/athletes/8985430/UMBC/Justin_Febles"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "50.30",
+            "meet_date": "Mar 28, 2025",
+            "wind": null
+        },
+        {
+            "place": 11,
+            "athlete": {
+                "text": "Olujumu, Pelumi",
+                "link": "https://www.tfrrs.org/athletes/8329952/UMBC/Pelumi_Olujumu"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "50.44",
+            "meet_date": "Mar 28, 2025",
+            "wind": null
+        },
+        {
+            "place": 12,
+            "athlete": {
+                "text": "Iheanacho, Fred-Morgan",
+                "link": "https://www.tfrrs.org/athletes/8550446/UMBC/Fred-Morgan__Iheanacho"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "50.44",
+            "meet_date": "Mar 28, 2025",
+            "wind": null
+        },
+        {
+            "place": 13,
+            "athlete": {
+                "text": "Meginniss, Liam",
+                "link": "https://www.tfrrs.org/athletes/8263815/UMBC/Liam_Meginniss"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "50.68",
+            "meet_date": "Apr 4, 2025",
+            "wind": null
+        },
+        {
+            "place": 14,
+            "athlete": {
+                "text": "Elsamani, Ahmed",
+                "link": "https://www.tfrrs.org/athletes/8985429/UMBC/Ahmed_Elsamani"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "51.15",
+            "meet_date": "Apr 18, 2025",
+            "wind": null
+        },
+        {
+            "place": 15,
+            "athlete": {
+                "text": "Olujumu, Pelumi",
+                "link": "https://www.tfrrs.org/athletes/8329952/UMBC/Pelumi_Olujumu"
+            },
+            "team": null,
+            "year": "JR-3",
+            "time": "51.82",
+            "meet_date": "Apr 18, 2025",
+            "wind": null
+        },
+        {
+            "place": 16,
+            "athlete": {
+                "text": "Elsamani, Ahmed",
+                "link": "https://www.tfrrs.org/athletes/8985429/UMBC/Ahmed_Elsamani"
+            },
+            "team": null,
+            "year": "FR-1",
+            "time": "51.96",
+            "meet_date": "Mar 28, 2025",
+            "wind": null
+        }
+    ]
+}
